@@ -6,5 +6,5 @@
 [![threads@fivsevn](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/threads.png)](https://www.threads.com/@fivsevn)
 [![tiktok@fivsevn57](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/tiktok.png)](https://www.tiktok.com/@fivsevn57)
 [![douyin@fivsevn57](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/douyin.png)](https://v.douyin.com/KNhMuGLB_jY)
-[![reddit@glock27uuu](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/reddit.png)](https://www.reddit.com/u/glock27uuu/s/rxemru5RM6)
-[![discord@glock27uuu](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/discord.png)](https://discord.gg/shzuHwbGmM)
+[![reddit@fivsevn](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/reddit.png)](https://www.reddit.com/u/glock27uuu/s/rxemru5RM6)
+![discord@fivsevn](https://cdn.jsdelivr.net/gh/fivsevn/fivsevn-assets/common/icon/discord.png)
